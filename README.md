@@ -72,21 +72,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ayeshapatel1209&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
-</p>
-
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayeshapatel1209&theme=tokyonight" alt="GitHub Streak"/>
-</p>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayeshapatel1209&layout=compact&theme=tokyonight" alt="Top Languages"/>
-</p>
-
----
 
 ## 🔗 Connect with Me
 
@@ -98,9 +83,5 @@
 
 ---
 
-## ☕ Support Me
-
-If you like what I do, you can support me here:  
-[![Buy Me A Coffee](https://img.shields.io/badge/-Buy%20me%20a%20coffee-FFDD00?style=flat-square&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/yourname)
 
 ---
